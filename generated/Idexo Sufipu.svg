@@ -1,0 +1,21 @@
+<!-- Idexo Sufipu -->
+<svg width="225.394" height="225.394" viewBox="0 0 59.635 59.635" xmlns="http://www.w3.org/2000/svg">
+    <!-- Brows -->
+    <path style="stroke-width:.264583" d="M46.302 6.615h6.615v6.614h-6.615zM6.615 6.615h6.614v6.614H6.615ZM13.23 0h6.614v6.615h-6.615zM39.688 0h6.614v6.615h-6.614Z"/>
+    <!-- /Brows -->
+
+    <!-- Eyes -->
+    <path style="stroke-width:.264583" d="M26.458 19.844h6.615v6.614h-6.615z"/>
+	<path style="stroke-width:.264583" d="M26.458 26.458h6.615v6.615h-6.615z"/>
+	<path style="stroke-width:.264583" d="M19.844 19.844h6.614v6.614h-6.614z"/>
+	<path style="stroke-width:.264583" d="M19.844 26.458h6.614v6.615h-6.614zM33.073 19.844h6.614v6.614h-6.614z"/>
+	<path style="stroke-width:.264583" d="M33.073 26.458h6.614v6.615h-6.614zM19.844 13.23h6.614v6.614h-6.614z"/>
+	<path style="stroke-width:.264583" d="M26.458 13.23h6.615v6.614h-6.615zM33.073 13.23h6.614v6.614h-6.614z"/>
+    <!-- /Eyes -->
+
+    <!-- Mouth -->
+    <path style="stroke-width:.264583" d="M13.23 46.302h6.614v6.615h-6.615zM39.688 46.302h6.614v6.615h-6.614ZM19.844 39.687h6.614v6.615h-6.614z"/>
+	<path style="stroke-width:.264583" d="M26.458 39.687h6.615v6.615h-6.615zM33.073 39.687h6.614v6.615h-6.614z"/>
+    <!-- /Mouth -->
+</svg>
+    

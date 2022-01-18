@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  fake-names: ^1.0.5
+
+dependencies:
+  fake-names: 1.0.5
+
+packages:
+
+  /fake-names/1.0.5:
+    resolution: {integrity: sha512-XVebPfLZkE1n4kQOrI49DcS5v6/PPcg0N2uGj/1eaht79Qcn34XB21pFArdUEWLUjEdg1SR6VCrrN8nmcKsuqA==}
+    dev: false

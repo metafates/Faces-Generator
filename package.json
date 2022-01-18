@@ -1,0 +1,14 @@
+{
+  "name": "nftgenerator",
+  "version": "1.0.0",
+  "description": "Generate nft from given assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "metafates",
+  "license": "ISC",
+  "dependencies": {
+    "fake-names": "^1.0.5"
+  }
+}
